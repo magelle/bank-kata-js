@@ -1,0 +1,13 @@
+{
+  "name": "bank-kata-js",
+  "version": "1.0.0",
+  "description": "Bank kata, but with javascript",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  }
+}
