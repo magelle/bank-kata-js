@@ -9,5 +9,8 @@
   "license": "",
   "devDependencies": {
     "jasmine": "^2.7.0"
+  },
+  "dependencies": {
+    "requirejs": "^2.3.5"
   }
 }
