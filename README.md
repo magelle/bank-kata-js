@@ -1,6 +1,6 @@
 # Simple bank account kata
 
-## In kotlVanilla JS
+## In Vanilla JS
 
 Build a simple bank account system that handle the following methods
 
